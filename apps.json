@@ -1,0 +1,41 @@
+{
+  "name": "Stefans Apps",
+  "identifier": "io.github.vwx089.source",
+  "subtitle": "Eigene Apps für SideStore",
+  "iconURL": "https://raw.githubusercontent.com/vwx089/kopffit/main/KopfFit/Assets.xcassets/AppIcon.appiconset/icon-1024.png",
+  "website": "https://vwx089.github.io",
+  "tintColor": "#5E5CE6",
+  "apps": [
+    {
+      "repo": "vwx089/kopffit",
+      "asset": "KopfFit.ipa",
+      "name": "KopfFit",
+      "bundleIdentifier": "de.stefan.kopffit",
+      "developerName": "vwx089",
+      "subtitle": "Täglich 5 Minuten Kopfrechnen",
+      "localizedDescription": "Adaptive Kopfrechenaufgaben mit Serie und hartnäckigen Erinnerungen.",
+      "iconURL": "https://raw.githubusercontent.com/vwx089/kopffit/main/KopfFit/Assets.xcassets/AppIcon.appiconset/icon-1024.png",
+      "tintColor": "#5E5CE6",
+      "minOSVersion": "17.0"
+    },
+    {
+      "repo": "vwx089/tesla-motorsound",
+      "asset": "Motorsound.ipa",
+      "name": "Motorsound",
+      "bundleIdentifier": "de.stefankauselmann.motorsound",
+      "developerName": "Stefan",
+      "subtitle": "Verbrennerklang aus Tesla-Live-Daten",
+      "localizedDescription": "Synthetischer Motorsound aus Gaspedal, Tempo und Akkuleistung, live vom S3XY Commander (WLAN S3XY_OBD) oder als Demo.",
+      "iconURL": "https://raw.githubusercontent.com/vwx089/tesla-motorsound/main/ios/icon.png",
+      "tintColor": "#F0962A",
+      "category": "utilities",
+      "minOSVersion": "17.0",
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSLocalNetworkUsageDescription": "Motorsound liest die Fahrzeugdaten vom S3XY Commander im WLAN S3XY_OBD."
+        }
+      }
+    }
+  ]
+}

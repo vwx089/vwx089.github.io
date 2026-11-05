@@ -1,0 +1,94 @@
+{
+  "name": "Stefans Apps",
+  "identifier": "io.github.vwx089.source",
+  "subtitle": "Eigene Apps für SideStore",
+  "iconURL": "https://raw.githubusercontent.com/vwx089/kopffit/main/KopfFit/Assets.xcassets/AppIcon.appiconset/icon-1024.png",
+  "website": "https://vwx089.github.io",
+  "tintColor": "#5E5CE6",
+  "apps": [
+    {
+      "name": "KopfFit",
+      "bundleIdentifier": "de.stefan.kopffit",
+      "developerName": "vwx089",
+      "subtitle": "Täglich 5 Minuten Kopfrechnen",
+      "localizedDescription": "Adaptive Kopfrechenaufgaben mit Serie und hartnäckigen Erinnerungen.",
+      "iconURL": "https://raw.githubusercontent.com/vwx089/kopffit/main/KopfFit/Assets.xcassets/AppIcon.appiconset/icon-1024.png",
+      "tintColor": "#5E5CE6",
+      "versions": [
+        {
+          "version": "1.0.11",
+          "buildVersion": "11",
+          "date": "2026-11-01T10:50:30Z",
+          "localizedDescription": "Tipp ungestraft: Aufgaben mit Tipp zählen normal für den Level-Aufstieg",
+          "downloadURL": "https://github.com/vwx089/kopffit/releases/download/v1.0.11/KopfFit.ipa",
+          "size": 335213,
+          "minOSVersion": "17.0"
+        },
+        {
+          "version": "1.0.10",
+          "buildVersion": "10",
+          "date": "2026-11-01T10:34:57Z",
+          "localizedDescription": "Tipp-Funktion: Glühbirne zeigt Vorgehensweise, Eselsbrücken und Rechenweg je Aufgabe",
+          "downloadURL": "https://github.com/vwx089/kopffit/releases/download/v1.0.10/KopfFit.ipa",
+          "size": 335193,
+          "minOSVersion": "17.0"
+        },
+        {
+          "version": "1.0.9",
+          "buildVersion": "9",
+          "date": "2026-10-31T08:12:43Z",
+          "localizedDescription": "Build-Fehler behoben, Workflow bricht bei fehlgeschlagenem Build jetzt ab",
+          "downloadURL": "https://github.com/vwx089/kopffit/releases/download/v1.0.9/KopfFit.ipa",
+          "size": 294747,
+          "minOSVersion": "17.0"
+        },
+        {
+          "version": "1.0.6",
+          "buildVersion": "6",
+          "date": "2026-10-31T07:54:00Z",
+          "localizedDescription": "Übung zählt für den Tag, an dem sie gestartet wurde",
+          "downloadURL": "https://github.com/vwx089/kopffit/releases/download/v1.0.6/KopfFit.ipa",
+          "size": 241544,
+          "minOSVersion": "17.0"
+        },
+        {
+          "version": "1.0.5",
+          "buildVersion": "5",
+          "date": "2026-10-30T23:49:05Z",
+          "localizedDescription": "Neuer Block „Zahlen merken“ in den letzten 40 % der Übung",
+          "downloadURL": "https://github.com/vwx089/kopffit/releases/download/v1.0.5/KopfFit.ipa",
+          "size": 241461,
+          "minOSVersion": "17.0"
+        }
+      ]
+    },
+    {
+      "name": "Motorsound",
+      "bundleIdentifier": "de.stefankauselmann.motorsound",
+      "developerName": "Stefan",
+      "subtitle": "Verbrennerklang aus Tesla-Live-Daten",
+      "localizedDescription": "Synthetischer Motorsound aus Gaspedal, Tempo und Akkuleistung, live vom S3XY Commander (WLAN S3XY_OBD) oder als Demo.",
+      "iconURL": "https://raw.githubusercontent.com/vwx089/tesla-motorsound/main/ios/icon.png",
+      "tintColor": "#F0962A",
+      "category": "utilities",
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSLocalNetworkUsageDescription": "Motorsound liest die Fahrzeugdaten vom S3XY Commander im WLAN S3XY_OBD."
+        }
+      },
+      "versions": [
+        {
+          "version": "0.1.2",
+          "buildVersion": "2",
+          "date": "2026-11-05T07:38:57Z",
+          "localizedDescription": "Automatisch gebaut aus 4e4e5bc. Unsigniert, für SideStore/AltStore.",
+          "downloadURL": "https://github.com/vwx089/tesla-motorsound/releases/download/build-2/Motorsound.ipa",
+          "size": 823259,
+          "minOSVersion": "17.0"
+        }
+      ]
+    }
+  ],
+  "news": []
+}
