@@ -79,6 +79,24 @@
       },
       "versions": [
         {
+          "version": "0.1.9",
+          "buildVersion": "9",
+          "date": "2026-11-05T20:25:30Z",
+          "localizedDescription": "Automatisch gebaut aus fca98eb. Unsigniert, für SideStore/AltStore.",
+          "downloadURL": "https://github.com/vwx089/tesla-motorsound/releases/download/build-9/Motorsound.ipa",
+          "size": 829971,
+          "minOSVersion": "17.0"
+        },
+        {
+          "version": "0.1.8",
+          "buildVersion": "8",
+          "date": "2026-11-05T20:12:04Z",
+          "localizedDescription": "Automatisch gebaut aus 3e3e7d8. Unsigniert, für SideStore/AltStore.",
+          "downloadURL": "https://github.com/vwx089/tesla-motorsound/releases/download/build-8/Motorsound.ipa",
+          "size": 829625,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "0.1.7",
           "buildVersion": "7",
           "date": "2026-11-05T14:30:12Z",
@@ -103,24 +121,6 @@
           "localizedDescription": "Automatisch gebaut aus 6aebf1c. Unsigniert, für SideStore/AltStore.",
           "downloadURL": "https://github.com/vwx089/tesla-motorsound/releases/download/build-5/Motorsound.ipa",
           "size": 825369,
-          "minOSVersion": "17.0"
-        },
-        {
-          "version": "0.1.4",
-          "buildVersion": "4",
-          "date": "2026-11-05T14:18:55Z",
-          "localizedDescription": "Automatisch gebaut aus 1bb06fe. Unsigniert, für SideStore/AltStore.",
-          "downloadURL": "https://github.com/vwx089/tesla-motorsound/releases/download/build-4/Motorsound.ipa",
-          "size": 825178,
-          "minOSVersion": "17.0"
-        },
-        {
-          "version": "0.1.3",
-          "buildVersion": "3",
-          "date": "2026-11-05T14:11:42Z",
-          "localizedDescription": "Automatisch gebaut aus a68fa58. Unsigniert, für SideStore/AltStore.",
-          "downloadURL": "https://github.com/vwx089/tesla-motorsound/releases/download/build-3/Motorsound.ipa",
-          "size": 824957,
           "minOSVersion": "17.0"
         }
       ]
