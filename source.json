@@ -16,6 +16,15 @@
       "tintColor": "#5E5CE6",
       "versions": [
         {
+          "version": "1.0.12",
+          "buildVersion": "12",
+          "date": "2026-11-06T20:38:32Z",
+          "localizedDescription": "Übung: 70 % Rechnen, 30 % Zahlen merken (vorher 60/40)",
+          "downloadURL": "https://github.com/vwx089/kopffit/releases/download/v1.0.12/KopfFit.ipa",
+          "size": 335216,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "1.0.11",
           "buildVersion": "11",
           "date": "2026-11-01T10:50:30Z",
@@ -50,24 +59,15 @@
           "downloadURL": "https://github.com/vwx089/kopffit/releases/download/v1.0.6/KopfFit.ipa",
           "size": 241544,
           "minOSVersion": "17.0"
-        },
-        {
-          "version": "1.0.5",
-          "buildVersion": "5",
-          "date": "2026-10-30T23:49:05Z",
-          "localizedDescription": "Neuer Block „Zahlen merken“ in den letzten 40 % der Übung",
-          "downloadURL": "https://github.com/vwx089/kopffit/releases/download/v1.0.5/KopfFit.ipa",
-          "size": 241461,
-          "minOSVersion": "17.0"
         }
       ]
     },
     {
       "name": "Motorsound",
       "bundleIdentifier": "de.stefankauselmann.motorsound",
-      "developerName": "Stefan",
+      "developerName": "vwx089",
       "subtitle": "Verbrennerklang aus Tesla-Live-Daten",
-      "localizedDescription": "Synthetischer Motorsound aus Gaspedal, Tempo und Akkuleistung, live vom S3XY Commander (WLAN S3XY_OBD) oder als Demo.",
+      "localizedDescription": "Synthetischer Motorsound aus Gaspedal, Tempo und Akkuleistung, live vom S3XY Commander (WLAN S3XY_OBD) oder in der Simulation.",
       "iconURL": "https://raw.githubusercontent.com/vwx089/tesla-motorsound/main/ios/icon.png",
       "tintColor": "#F0962A",
       "category": "utilities",
@@ -79,48 +79,12 @@
       },
       "versions": [
         {
-          "version": "0.1.9",
-          "buildVersion": "9",
-          "date": "2026-11-05T20:25:30Z",
-          "localizedDescription": "Automatisch gebaut aus fca98eb. Unsigniert, für SideStore/AltStore.",
-          "downloadURL": "https://github.com/vwx089/tesla-motorsound/releases/download/build-9/Motorsound.ipa",
-          "size": 829971,
-          "minOSVersion": "17.0"
-        },
-        {
-          "version": "0.1.8",
-          "buildVersion": "8",
-          "date": "2026-11-05T20:12:04Z",
-          "localizedDescription": "Automatisch gebaut aus 3e3e7d8. Unsigniert, für SideStore/AltStore.",
-          "downloadURL": "https://github.com/vwx089/tesla-motorsound/releases/download/build-8/Motorsound.ipa",
-          "size": 829625,
-          "minOSVersion": "17.0"
-        },
-        {
-          "version": "0.1.7",
-          "buildVersion": "7",
-          "date": "2026-11-05T14:30:12Z",
-          "localizedDescription": "Automatisch gebaut aus 5329ea6. Unsigniert, für SideStore/AltStore.",
-          "downloadURL": "https://github.com/vwx089/tesla-motorsound/releases/download/build-7/Motorsound.ipa",
-          "size": 827194,
-          "minOSVersion": "17.0"
-        },
-        {
-          "version": "0.1.6",
-          "buildVersion": "6",
-          "date": "2026-11-05T14:25:50Z",
-          "localizedDescription": "Automatisch gebaut aus e316812. Unsigniert, für SideStore/AltStore.",
-          "downloadURL": "https://github.com/vwx089/tesla-motorsound/releases/download/build-6/Motorsound.ipa",
-          "size": 826598,
-          "minOSVersion": "17.0"
-        },
-        {
-          "version": "0.1.5",
-          "buildVersion": "5",
-          "date": "2026-11-05T14:22:02Z",
-          "localizedDescription": "Automatisch gebaut aus 6aebf1c. Unsigniert, für SideStore/AltStore.",
-          "downloadURL": "https://github.com/vwx089/tesla-motorsound/releases/download/build-5/Motorsound.ipa",
-          "size": 825369,
+          "version": "0.1.20",
+          "buildVersion": "20",
+          "date": "2026-11-06T20:29:19Z",
+          "localizedDescription": "Automatisch gebaut aus 0764596. Unsigniert, für SideStore/AltStore.",
+          "downloadURL": "https://github.com/vwx089/tesla-motorsound/releases/download/build-20/Motorsound.ipa",
+          "size": 122410,
           "minOSVersion": "17.0"
         }
       ]
